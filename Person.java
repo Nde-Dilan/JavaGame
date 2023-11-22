@@ -10,6 +10,9 @@ public class Person {
     private int age;            // Age of the person
     private String occupation;  // Occupation of the person
 
+    //person1 = new Person("jonh", 30, "teacher")
+    //person2 = new Person("doe", 20, "student")
+
     // Constructor
     // This is a special method used for creating an instance of the Person class.
     // It initializes the attributes with the provided values when a new Person object is created.
